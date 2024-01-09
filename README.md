@@ -1,5 +1,6 @@
 # python-challenge
 **Financial Analysis Script:**
+
 Purpose:
 This script helps you understand financial data, like company profits or losses, and generates a report with key information.
 
@@ -11,6 +12,7 @@ How it Works:
     -The script shows this information on the screen and saves it in a text file called 'results.txt'.
 
 **Election Analysis Script:**
+
 Purpose:
 This script helps you analyze election results, like how many votes each candidate got and who won the election.
 
