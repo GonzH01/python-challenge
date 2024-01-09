@@ -11,7 +11,6 @@ How it Works:
 
 **Election Analysis Script:**
 Purpose:
-
 This script helps you analyze election results, like how many votes each candidate got and who won the election.
 How it Works:
 
